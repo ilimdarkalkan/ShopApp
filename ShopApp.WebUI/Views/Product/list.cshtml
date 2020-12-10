@@ -1,0 +1,27 @@
+﻿@*@model ShopApp.WebUI.Models.ProductListViewModel
+
+    @{
+        var popularClass = Model.Products.Count > 1 ? "popular" : "";
+        var products = Model.Products;
+    }
+
+
+    @section Categories{
+        @await Component.InvokeAsync("Categories")
+
+    }
+    @if (Model.Products.Count == 0)
+    {
+        @await Html.PartialAsync("_noProduct")
+    }
+    else
+    {
+        <div class="row">
+            @foreach (var product in products)
+            {
+                <div class="col-md-4">
+                    @await Html.PartialAsync("_product", product)
+                </div>
+            }
+        </div>
+    }*@

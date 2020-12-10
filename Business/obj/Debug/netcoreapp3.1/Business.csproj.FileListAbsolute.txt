@@ -1,0 +1,14 @@
+C:\Users\kalkan\Desktop\ShopApp\ShopApp.WebUI\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\kalkan\Desktop\ShopApp\ShopApp.WebUI\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\kalkan\Desktop\ShopApp\ShopApp.WebUI\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\kalkan\Desktop\ShopApp\ShopApp.WebUI\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\kalkan\Desktop\ShopApp\ShopApp.WebUI\Business\bin\Debug\netcoreapp3.1\ShopApp.Entity.dll
+C:\Users\kalkan\Desktop\ShopApp\ShopApp.WebUI\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\kalkan\Desktop\ShopApp\ShopApp.WebUI\Business\bin\Debug\netcoreapp3.1\ShopApp.Entity.pdb
+C:\Users\kalkan\Desktop\ShopApp\ShopApp.WebUI\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\Users\kalkan\Desktop\ShopApp\ShopApp.WebUI\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\kalkan\Desktop\ShopApp\ShopApp.WebUI\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\kalkan\Desktop\ShopApp\ShopApp.WebUI\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\kalkan\Desktop\ShopApp\ShopApp.WebUI\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\kalkan\Desktop\ShopApp\ShopApp.WebUI\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\kalkan\Desktop\ShopApp\ShopApp.WebUI\Business\obj\Debug\netcoreapp3.1\Business.pdb
