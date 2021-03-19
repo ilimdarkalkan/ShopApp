@@ -1,0 +1,38 @@
+﻿@model ShopApp.WebUI.Models.ProductDetailModel
+
+<div class="row">
+    <div class="col-md-3">
+        <img src="~/img/@Model.Product.ImageUrl" class="imh-fluid" />
+    </div>fa
+    <div class="col-md-9">
+        <h1 class="mb-3">
+            @Model.Product.Name
+        </h1> <hr />
+        <h3>
+        <small>Ürün Açıklaması:</small> 
+        @Html.Raw(Model.Product.Description)
+        </h3><br />
+
+        <div class="mb-3">
+            <h4 class=" mb-4">
+                <small>Ürün Fiyatı:</small>
+                <i class="fas fa-lira-sign text-primary">  @Model.Product.Price</i>
+            </h4><br>
+            <button type="submit" class="btn btn-primary btn-lg mt-2">
+                Add To Card
+            </button>
+        </div>
+    </div>
+</div>
+<div class="row mt-4">
+    <div class="col-md-12">
+        @foreach (var item in Model.Categories)
+        {
+            <p>
+            <a asp-controller="shop" asp-action="list" asp-route-category="@item.Url">
+                @item.Name
+            </a>
+            </p>
+        }
+    </div>
+</div>

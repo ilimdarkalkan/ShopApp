@@ -1,0 +1,15 @@
+C:\Users\kalkan\Desktop\ShopApp\ShopApp.WebUI\DataAccess\bin\Debug\netcoreapp3.1\ShopApp.Entity.dll
+C:\Users\kalkan\Desktop\ShopApp\ShopApp.WebUI\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\kalkan\Desktop\ShopApp\ShopApp.WebUI\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\kalkan\Desktop\ShopApp\ShopApp.WebUI\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\kalkan\Desktop\ShopApp\ShopApp.WebUI\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\kalkan\Desktop\ShopApp\ShopApp.WebUI\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+C:\Users\kalkan\Desktop\ShopApp\ShopApp.WebUI\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+C:\Users\kalkan\Desktop\ShopApp\ShopApp.WebUI\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\kalkan\Desktop\ShopApp\ShopApp.WebUI\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\kalkan\Desktop\ShopApp\ShopApp.WebUI\DataAccess\bin\Debug\netcoreapp3.1\ShopApp.Entity.pdb
+C:\Users\kalkan\Desktop\ShopApp\ShopApp.WebUI\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\kalkan\Desktop\ShopApp\ShopApp.WebUI\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\kalkan\Desktop\ShopApp\ShopApp.WebUI\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\kalkan\Desktop\ShopApp\ShopApp.WebUI\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\kalkan\Desktop\ShopApp\ShopApp.WebUI\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache
